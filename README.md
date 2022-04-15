@@ -60,5 +60,5 @@ docker run --rm \
 
 Previous work & inspiration:
 
-- [_A tiny Docker image to serve static websites_ (HN post)](https://news.ycombinator.com/item?id=31003395)
+- [_A tiny Docker image to serve static websites_](https://news.ycombinator.com/item?id=31003395) (HN post)
 - [`contrib/docker`](https://sqlite.org/althttpd/dir?ci=tip&name=contrib/docker) of `althttpd`
